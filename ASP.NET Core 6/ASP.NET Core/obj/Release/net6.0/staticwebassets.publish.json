@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0Ecidwqjjs1mBF5wgq7ZYCVAZuM3N1Z9vTCKRJkcq2w=",
+  "Source": "netcore_azure",
+  "BasePath": "_content/netcore_azure",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
