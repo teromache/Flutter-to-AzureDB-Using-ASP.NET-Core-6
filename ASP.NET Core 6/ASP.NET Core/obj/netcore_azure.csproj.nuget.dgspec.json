@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EsDe4th\\Downloads\\netcore_azure\\netcore_azure_lama_jadi\\netcore_azure.csproj": {}
+    "D:\\coding\\Flutter-to-AzureDB-Using-ASP.NET-Core-6\\ASP.NET Core 6\\ASP.NET Core\\netcore_azure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EsDe4th\\Downloads\\netcore_azure\\netcore_azure_lama_jadi\\netcore_azure.csproj": {
+    "D:\\coding\\Flutter-to-AzureDB-Using-ASP.NET-Core-6\\ASP.NET Core 6\\ASP.NET Core\\netcore_azure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EsDe4th\\Downloads\\netcore_azure\\netcore_azure_lama_jadi\\netcore_azure.csproj",
+        "projectUniqueName": "D:\\coding\\Flutter-to-AzureDB-Using-ASP.NET-Core-6\\ASP.NET Core 6\\ASP.NET Core\\netcore_azure.csproj",
         "projectName": "netcore_azure",
-        "projectPath": "C:\\Users\\EsDe4th\\Downloads\\netcore_azure\\netcore_azure_lama_jadi\\netcore_azure.csproj",
+        "projectPath": "D:\\coding\\Flutter-to-AzureDB-Using-ASP.NET-Core-6\\ASP.NET Core 6\\ASP.NET Core\\netcore_azure.csproj",
         "packagesPath": "C:\\Users\\EsDe4th\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EsDe4th\\Downloads\\netcore_azure\\netcore_azure_lama_jadi\\obj\\",
+        "outputPath": "D:\\coding\\Flutter-to-AzureDB-Using-ASP.NET-Core-6\\ASP.NET Core 6\\ASP.NET Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EsDe4th\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jinrprjShXav858170buDPhnbb+I8O5WAOcmSaF+MRy5poplGOPpluHNHVCSknfrol1vfWhgS8JWh5uiPUI96g==",
+  "dgSpecHash": "jEru1BGfcwhwAESAKGQ2lTMvZMLNBxQ03bk9UerBlJma7yMUHdU3mmLX4ETol/NKIK7dUgVvfD1Ef0qArJAayg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EsDe4th\\Downloads\\netcore_azure\\netcore_azure_lama_jadi\\netcore_azure.csproj",
+  "projectFilePath": "D:\\coding\\Flutter-to-AzureDB-Using-ASP.NET-Core-6\\ASP.NET Core 6\\ASP.NET Core\\netcore_azure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EsDe4th\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\EsDe4th\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
